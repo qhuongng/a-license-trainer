@@ -1,0 +1,20 @@
+{
+  "name": "Luyện thi GPLX hạng A & A1",
+  "short_name": "GPLX A/A1",
+  "description": "Ứng dụng luyện thi lý thuyết giấy phép lái xe hạng A & A1",
+  "lang": "vi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#00008b",
+  "background_color": "#f9fafb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
