@@ -48,4 +48,8 @@ and enjoy your app at `http://localhost:3000`.
         
         > File index.html already exists. Overwrite?
 5. Delete the generated `firebase.json` file and rename your file in step 0 into `firebase.json`.
-6. Run `firebase deploy` and enjoy your app at `https://<your-project-name>.web.app`.
+6. Run
+   ```bash
+    firebase deploy
+   ```
+   and enjoy your app at `https://<your-project-name>.web.app`.
